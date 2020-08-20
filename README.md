@@ -1,12 +1,13 @@
-# Recovered Cases Prediction Covid19 India
-⚡Predicting number of COVID-19 cases that shall be recovered
+# 💚 Recovered Cases Prediction Covid19 India
+
+⚡ Predicting number of COVID-19 cases that shall be recovered
 
 - Covid-19 India 🇮🇳 Prediction
-- Source of information : covid19india.org
+- Source of information : [covid19india.org](https://www.covid19india.org/)
 
-## 26th April 2020 to 5th May 2020 Prediction
+## 21st August 2020 to 9th September 2020 Prediction
 
-![](https://github.com/officialpm/Recovered-Cases-Prediction-Covid19-India/raw/master/25-04-2020%20to%2005-05-2020.png)
+![](https://github.com/officialpm/Recovered-Cases-Prediction-Covid19-India/raw/master/images/21-08-2020%20to%2009-09-2020.png)
 
 
 
@@ -15,13 +16,26 @@
 |  Apr 26 2020 |  577 | 585  | 1.38|
 |  May 17 2020 |  36795 | 33558  | 8.7|
 
-Range of data : 14-03-2020 to 07-05-2020
+
+Range of data : **`14-03-2020`** to **`20-08-2020`**
 
 ------------
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
+#### **`✨ Developed by`** [Parth Maniar](https://github.com/officialpm)
 
-
-[1]: https://www.github.com/officialpm
-[2]: https://www.linkedin.com/in/parthdmaniar
+<div>
+<a href="https://twitter.com/parthcodes">
+  <img   align="left" alt="Parth | Twitter" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/parthdmaniar/">
+  <img align="left" alt="Parth's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/parthmaniar">
+  <img align="left" alt="Parth's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/parthroxx/">
+  <img align="left" alt="Parth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</div>
+<br/>
